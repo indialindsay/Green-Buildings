@@ -1,4 +1,4 @@
-The case
+The Case
 --------
 
 Over the past decade, both investors and the general public have paid
