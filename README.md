@@ -1,1 +1,0 @@
-# Visual-Storytelling-Green-Buildings
