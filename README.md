@@ -104,7 +104,7 @@ For each building, we have information on their:
     year in the building’s local market.
 
 
-Analysis: Revisiting The Recommendation And Offering A Second Opinion
+## Analysis: Revisiting The Recommendation 
 ============================================
 
 The Austin-based real estate developer is seeking to understand the
